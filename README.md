@@ -6,7 +6,7 @@ Preference elicitation relieves some of this burden. Instead of deciding the tra
 ### Installation
 To install, simply run 
 ```julia
-Pkg.clone("https://github.com/jlepird/preferenceElicitation.git")
+Pkg.clone("https://github.com/sisl/PreferenceElicitation.jl.git")
 ```
 Note: if you are behind a proxy server, you’ll need to configure git differently. The following commands should do it:
 ```julia

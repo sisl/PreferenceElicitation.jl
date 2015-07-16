@@ -1,5 +1,5 @@
 using Distributions # force user load for priors
-module preferenceElicitation
+module PreferenceElicitation
 
 export prefEl, 
        @addPref,

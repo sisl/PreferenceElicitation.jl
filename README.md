@@ -17,7 +17,7 @@ run(`git config --global url."https://".insteadOf git://`) # forces git to use h
 ### Example 
 Once installed, begin by creating your preference elicitation object:
 ```julia
-using preferenceElicitation # load package
+using PreferenceElicitation # load package
 p = prefEl([1 0;   # first design
             0 1;   # second design
             0 0], # third design
